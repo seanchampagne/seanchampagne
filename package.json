@@ -1,0 +1,22 @@
+{
+  "name": "seanchampagne",
+  "version": "1.0.0",
+  "description": "A portfolio website for Sean Champagne in Seattle, Washington.",
+  "main": "server.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/seanchampagne/seanchampagne.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/seanchampagne/seanchampagne/issues"
+  },
+  "homepage": "https://github.com/seanchampagne/seanchampagne#readme"
+}
